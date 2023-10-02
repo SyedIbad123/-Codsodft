@@ -1,0 +1,82 @@
+.con{ 
+    height: 100%; 
+    width: 100%; 
+    background-color: grey; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 100px; 
+ 
+} 
+.cal{ 
+    background-color: rosybrown; 
+    border-radius: 20px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 20px; 
+}.cal form input 
+{ 
+    width: 50px; 
+    height: 50px; 
+    border-radius: 10px; 
+    color: black; 
+    cursor: pointer; 
+ 
+} 
+ 
+.a input:hover{ 
+    color:blueviolet; 
+    text-decoration: underline; 
+    font-size: 18px; 
+ 
+} 
+ 
+.dis{ 
+    display: flex; 
+    justify-content: flex-end; 
+    margin: 30px; 
+ 
+} 
+ 
+.dis input{ 
+    text-align: right; 
+    flex: 1px; 
+    font-size: 20px; 
+} 
+ 
+.b input:hover{ 
+    color:blueviolet; 
+    text-decoration: underline; 
+    font-size: 18px; 
+ 
+} 
+ 
+.c input:hover{ 
+    color:blueviolet; 
+    text-decoration: underline; 
+    font-size: 18px; 
+ 
+} 
+ 
+.d input:hover{ 
+    color:blueviolet; 
+    text-decoration: underline; 
+    font-size: 18px; 
+ 
+} 
+ 
+.e input:hover{ 
+    color:blueviolet; 
+    text-decoration: underline; 
+    font-size: 18px; 
+ 
+} 
+ 
+*{ 
+    box-sizing: border-box; 
+} 
+ 
+.eq{ 
+    background-color:coral; 
+}
